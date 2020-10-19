@@ -2,7 +2,4 @@
 
 images/
 
-latex.aux
-latex.log
-latex.pdf
-latex.tex
+latex.*
