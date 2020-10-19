@@ -1,0 +1,8 @@
+.env
+
+images/
+
+latex.aux
+latex.log
+latex.pdf
+latex.tex
